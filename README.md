@@ -39,10 +39,10 @@ Create a `.env` file in the project root.
 You can use `.env.example` as a template:
 
 ```env
-TELEGRAM_BOT_TOKEN=
-TELEGRAM_CHAT_ID=
-NIE=
-FULL_NAME=
+TELEGRAM_BOT_TOKEN= your token
+TELEGRAM_CHAT_ID= chatID
+NIE=NIE
+FULL_NAME=NAME SERNAME
 ```
 
 Fill in your own values.
